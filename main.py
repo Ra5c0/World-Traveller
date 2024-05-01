@@ -3,7 +3,7 @@ import os
 import json
 import folium
 import logging
-from PyQt5.QtCore import Qt, QUrl, QObject, pyqtSignal, QThread
+from PyQt5.QtCore import Qt, QUrl, pyqtSignal, QThread
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, 
